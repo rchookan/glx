@@ -15,8 +15,8 @@
  limitations under the License.
  -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.google.zxing.client.androidtest"
-          android:versionName="1.4.2"
+          package="com.glx-barcode-sanner"
+          android:versionName="1.0"
           android:versionCode="11"
           android:installLocation="auto">
 
